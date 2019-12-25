@@ -11,7 +11,7 @@ content: "NEW";
 color:yellow;
 }
 
-.italic:hover{
+p:nth-child(8):hover{
  font-style: italic;
 }
 #second-div p:nth-of-type(2n+0) {
